@@ -2,8 +2,8 @@
 /* подключение хэдэра */
 require($_SERVER['DOCUMENT_ROOT'].'/bitrix/header.php');
 
-$APPLICATION->SetPageProperty("TITLE", "Title исправленный из админки");
-$APPLICATION->SetTitle("Главная");
+$APPLICATION->SetPageProperty("TITLE", "Title исправлен из админки+++");
+$APPLICATION->SetTitle("Главная+");
 ?> 
 
 <!-- статичный контент для Главной страницы -->
