@@ -1,7 +1,10 @@
 <?
 $sSectionName = "example1";
+/* переменная хранит массив данных, которые заполняются в окне "Изменить раздел->свойство раздела"  */
 $arDirProperties = Array(
-   "description" => "описание из админки example1+",
-   "keywords" => "ключевые слова example1"
+   "description" => "описание из админки example1+ (Свойства раздела)",
+   "keywords" => "ключевые слова example1+ (Свойства раздела)",
+   "TITLE" => "Title+ (Свойства раздела)",
+   "ROBOTS" => "index, follow+ (Свойства раздела)"
 );
 ?>
