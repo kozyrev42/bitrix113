@@ -1,4 +1,7 @@
 <?
-/* переменная хранит наименование заголовка раздела, будет отображаться в логической структуре */
-$sSectionName="example1";   
+$sSectionName = "example1";
+$arDirProperties = Array(
+   "description" => "описание из админки example1+",
+   "keywords" => "ключевые слова example1"
+);
 ?>
